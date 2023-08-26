@@ -1,0 +1,2 @@
+# Predicting-Impact-of-Marketing-Channels-and-Digital-Marketing-KPIs-with-Machine-Learning
+In this project, we explore the dynamic interplay between various marketing channels and their impact on revenue and digital marketing Key Performance Indicators (KPIs). Leveraging machine learning techniques, we aim to predict the outcomes of different marketing strategies and provide insights into the allocation of resources for optimal results.
